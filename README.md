@@ -77,7 +77,7 @@ I’m open to **open-source contributions** and **exciting projects**!
 
 📫 **Reach Me:**  
 ✉️ [kiptoom156@gmail.com](mailto:kiptoom156@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://linkedin.com/in/kiptoo-moses)  
 
 ---
 
@@ -90,16 +90,7 @@ I’m open to **open-source contributions** and **exciting projects**!
 
 ---
 
-### **🎨 Profile Customization**  
-This README is **animated & interactive**!  
-To update, edit `README.md` in your **profile repository**.  
 
-```bash
-git pull origin main
-# Make changes
-git add README.md
-git commit -m "Updated profile README"
-git push origin main
 ```
 
 ---
