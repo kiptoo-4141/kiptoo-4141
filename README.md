@@ -35,8 +35,8 @@ I love building **scalable backend APIs** and **interactive mobile/web apps**!
 | **Project** | **Description** | **Tech Stack** |
 |-------------|----------------|----------------|
 | [📚 Student Management](https://github.com/kiptoo-4141/Simple-Student-Mangement-SpringBoot-MySQL) | CRUD app with Spring Boot & MySQL | Spring Boot, Thymeleaf, MySQL |
-| [📱 Android App](https://github.com/kiptoo-4141/MyAndroidApp) | Sample Android project | Kotlin, Android Studio |
-| [🌐 Angular Dashboard](https://github.com/kiptoo-4141/Angular-Dashboard) | Interactive admin panel | Angular, TypeScript, Bootstrap |
+| [📱 Android App](https://github.com/kiptoo-4141/MyAndroidApp) | Sample Android project | Java, Android Studio |
+| [🌐 Angular Dashboard](https://github.com/kiptoo-4141/Angular-Dashboard) | Interactive admin panel | Flutter, TypeScript, Bootstrap |
 
 </div>  
 
