@@ -12,7 +12,7 @@ I love building **scalable backend APIs** and **interactive mobile/web apps**!
 
 🔹 **Backend:** Spring Boot, MySQL, Hibernate  
 🔹 **Mobile:** Android Studio, Kotlin  
-🔹 **Frontend:** HTML, CSS, JavaScript, Angular  
+🔹 **Frontend:** HTML, CSS, JavaScript, React and TypeScript  
 🔹 **Learning:** Always exploring new tech!  
 
 ---
